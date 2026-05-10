@@ -1,16 +1,46 @@
-## Hi there 👋
+# Youhana Shamir
 
-<!--
-**youhanashamir/youhanashamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable web applications using modern JavaScript technologies.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+
+* React.js
+* TypeScript
+* JavaScript (ES6+)
+* HTML5 & CSS3
+
+Backend:
+
+* Node.js
+* Express.js
+
+Databases:
+
+* PostgreSQL
+* MongoDB
+
+Tools:
+
+* Git & GitHub
+* REST APIs
+* Responsive Design
+
+## Experience
+
+* Full Stack Developer Intern at Qalam Training Programs
+* Shopify & WordPress Developer
+* Experience building eCommerce websites and full-stack applications
+
+## Current Focus
+
+* MERN & PERN stack applications
+* Backend architecture and APIs
+* Scalable frontend development
+* Authentication and database systems
+
+## Connect
+
+* LinkedIn: https://linkedin.com/in/your-linkedin
+* Portfolio: https://yourportfolio.com
